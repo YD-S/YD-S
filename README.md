@@ -13,7 +13,7 @@ RIGHT NOW:
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
 
 FUTURE PROJECTS:
-- **42 Project- Pipex**
+- **42 Project- Minishell/Philo**
 - **Record every project and milestone in Github**
 - **Build Medium blog to show what I learn.**
  
