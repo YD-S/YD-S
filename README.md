@@ -23,7 +23,10 @@ FUTURE PROJECTS:
 - 💬 ask me about anything, i am happy to help if I can;
 
 <br>
-<p align="left">
+<p align="center">
+    <a href="https://github.com/oakoudad/badge42">
+       <img src="https://badge.mediaplus.ma/greenbinary/ysingh?1337Badge=off&UM6P=off" alt="ysingh's 42 stats" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
