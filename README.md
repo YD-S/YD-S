@@ -6,13 +6,13 @@ GOALS:
 - Take my best shot at the opportunities I have been offered.
 
 RIGHT NOW:
-- 🔭 I’m currently working on **Cub3d/CPPmodules**
+- 🔭 I’m currently working on **Webserv/CppModules**
 - 📖 I’m currently studying the 42 Core Cursus.
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
 
 FUTURE PROJECTS:
-- **42 Project- NetPractice/Webserv**
+- **42 Project- ft_transcendence**
 - **Record every project and milestone in Github**
 - **Build Medium blog to show what I learn.**
  
