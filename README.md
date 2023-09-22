@@ -35,7 +35,7 @@ FUTURE PROJECTS:
 
 <p align="left">
     <a href="https://github.com/oakoudad/badge42">
-       <img src="https://badge.mediaplus.ma/greenbinary/ysingh?1337Badge=off&UM6P=off" alt="ysingh's 42 stats" />
+       <img src="https://badge.mediaplus.ma/ysingh?1337Badge=off&UM6P=off" alt="ysingh's 42 stats" />
     </a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YD-S&show_icons=true&locale=en&theme=gotham" alt="Royale0g" /></p>
