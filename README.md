@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning c++/React/Django<br>- ⚡ In my free time I code</p>
+<p align="left">- 📚 I'm currently learning c++/React/Django and Flutter<br>- ⚡ In my free time I code</p>
 
 ###
 
