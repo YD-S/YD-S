@@ -2,11 +2,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">- 📚 I'm currently learning c++/React/Django and Flutter<br>- ⚡ In my free time I code</p>
+<p align="left">
+  - 📚 I am passionate about technology and software development. Currently, I am learning C++, React, Django, and Flutter to build cross-platform applications.<br>
+  - ⚡ When I'm not coding, I enjoy exploring new technologies.<br>
+  - 🌱 My ultimate goal is to combine my knowledge of backend and frontend technologies to create seamless and scalable applications.
+</p>
 
 ###
 
@@ -35,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
