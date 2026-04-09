@@ -4,7 +4,6 @@
 </h1>
 
 <h3 align="center">⚡ Fullstack Engineer | React ⚛️ + Go 🐹 | AWS ☁️ | Linux 🐧</h3>
----
 
 ```bash
 > whoami
