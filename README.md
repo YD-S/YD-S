@@ -1,80 +1,78 @@
-<h1 align="center">Hey there 👋 I am Yash</h1>
+<!-- 🔥 HERO HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there+%F0%9F%91%8B+I'm+Yash;Fullstack+Engineer;React+%E2%9A%9B%EF%B8%8F+%7C+Go+%F0%9F%90%B9+%7C+AWS+%E2%98%81%EF%B8%8F;Linux+%F0%9F%90%A7+%7C+Homelab+Enthusiast;Building+Scalable+Apps+%26+Systems" alt="Typing SVG" />
+</h1>
 
-###
+<h3 align="center">⚡ Fullstack Engineer | React ⚛️ + Go 🐹 | AWS ☁️ | Linux 🐧</h3>
+---
 
-<h3 align="left">👩‍💻 About Me</h3>
+```bash
+> whoami
+Yash
 
-###
+> role
+Fullstack Engineer (React + Go)
 
-<p align="left">
-  - 📚 I am passionate about technology and software development. Currently, I am learning C++, React, Django, and Flutter to build cross-platform applications.<br>
-  - ⚡ When I'm not coding, I enjoy exploring new technologies.<br>
-  - 🌱 My ultimate goal is to combine my knowledge of backend and frontend technologies to create seamless and scalable applications.
-</p>
+> specialization
+Backend systems, APIs, distributed architectures
 
-###
+> stack
+Go | React | TypeScript | PostgreSQL | AWS | Docker
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yashdev-singh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ysingh@student.42malaga.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+> current_mission
+Building scalable production systems 🚀
+```
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🚀 About Me
 
-###
+- 🧠 Fullstack engineer with strong **backend & systems mindset**
+- ⚙️ Designing scalable APIs and integrations with **Go**
+- ⚛️ Building modern UIs with **React + TypeScript**
+- ☁️ Working with **AWS (ECS, SQS, EventBridge, S3)**
+- 🐧 Linux enthusiast — daily driver & systems tinkering
+- 🏠 Homelab enthusiast — self-hosting services, infra & networking
+- 🎯 Focused on **performance, reliability, and clean architecture**
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
+## 🏠 Homelab & Systems
 
-###
+```txt
+→ Self-hosting services on Portainer
+→ Docker-based infrastructure
+→ Reverse proxy & SSL (NPM / Certbot)
+→ Cloudflare DNS & domain management
+→ Exploring networking & system architecture
+```
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🛠 Tech Stack
 
-###
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=go,java,python,django)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YD-S&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YD-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YD-S&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+### ⚛️ Frontend
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,tailwind)
 
-###
+### ☁️ Cloud & DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YD-S/count.svg?"  />
-</div>
+### 🏗️ Infrastructure
+![Infra](https://skillicons.dev/icons?i=nginx,linux,redis)
 
-###
+### 🧰 Tools & Workflow
+![Tools](https://skillicons.dev/icons?i=git,github,postman,bash)
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YD-S&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YD-S&layout=compact&theme=tokyonight)
+![GithubStats](https://github-readme-activity-graph.vercel.app/graph?username=YD-S&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=false)
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/yashdev-singh/)
+Email: contact@yashds.dev
